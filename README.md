@@ -9,4 +9,4 @@ I cleaned up the data that was scraped, and used it to produce a couple of plots
 Using the dropbox APIv2 upload script, I edited some of the code, to upload my \PyCharm\WebScraping\Library file   
 to a KDL Library Scraping folder I created on Dropbox's Website
 
-[Dropbox Folder] (https://www.dropbox.com/home/KDL%20Library%20Scrape)  
+Click [here](https://www.dropbox.com/home/KDL%20Library%20Scrape) to go to my Dropbox folder.
