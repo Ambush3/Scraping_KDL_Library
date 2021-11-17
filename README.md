@@ -1,4 +1,4 @@
-# Scraping_KDL_Library
+# Scraping KDL Library
 
 Using BeautifulSoup to webscrape data from the local Kent District Library.
 The data I was looking for was on their Picture Books for Grateful Readers page.
