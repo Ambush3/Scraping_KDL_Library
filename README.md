@@ -10,3 +10,6 @@ Using the dropbox APIv2 upload script, I edited some of the code, to upload my \
 to a KDL Library Scraping folder I created on Dropbox's Website
 
 Click [here](https://www.dropbox.com/home/KDL%20Library%20Scrape) to go to my Dropbox folder.
+
+My Binder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ambush3/Scraping_KDL_Library/HEAD)
